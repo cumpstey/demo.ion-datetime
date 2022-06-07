@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  date = '2022-06-07T11:59:36Z';
+
+  constructor() { }
 
 }
