@@ -1,0 +1,7 @@
+{
+  "name": "demo.ion-datetime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
